@@ -1,1 +1,1 @@
-theres nothing cool here
+save to user folder and run install.sh
